@@ -8,3 +8,5 @@ Key Features:
 •	Clicking a card reveals its hidden content (image or number).
 •	If two cards match, they remain face-up; if not, they flip back down.
 •	The game continues until all pairs are found.
+
+Topics Covered - DOM Manipulation, Event Handling, Conditional Logic in JavaScript
