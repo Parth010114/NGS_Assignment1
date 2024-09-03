@@ -31,8 +31,8 @@ function generateBoard() {
 
 // Handle card flip
 function flipCard() {
-    if (lockBoard) return; // Prevent clicking if board is locked
-    if (this === firstCard) return; // Prevent double-clicking the same card
+    if (lockBoard) return; 
+    if (this === firstCard) return;
 
     this.classList.add('flipped');
 
